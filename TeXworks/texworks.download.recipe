@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of texworks.</string>
 	<key>Identifier</key>
-	<string>edu.cmich.download.texworks</string>
+	<string>com.github.download.texworks</string>
 	<key>Input</key>
 	<dict>
 		<key>GITHUB_REPO</key>

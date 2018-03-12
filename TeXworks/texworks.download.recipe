@@ -32,7 +32,7 @@
 			<key>Arguments</key>
 			<dict>
 				<key>filename</key>
-				<string>%NAME%-%version%.zip</string>
+				<string>%NAME%-%version%.tar.gz</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
